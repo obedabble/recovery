@@ -1,0 +1,87 @@
+body{
+	text-align: center;
+    background-color: #008b7575;
+    background-position: center;
+    padding: 100px;
+}
+h2{
+	letter-spacing: 2px;
+	font-style: italic;
+}
+
+
+h1{
+	text-align: center;
+	letter-spacing: 1.2px;
+	font-style: italic;
+	    background: #ffffffc7;
+	    border-radius: 10px;
+}
+.page1{
+    text-align: center;
+    font-style: italic;
+
+}
+.page1 input{
+    width: 300px;
+    padding: 18px;
+    border-radius: 10px;
+    }
+    .button{
+    	text-align: center;
+    	border-radius: 10px;
+    }
+  button[type=submit] {
+    text-align: center;
+    position: relative;
+     background-color: #0e35db9
+    color: black;
+    padding: 14px 20px;
+    margin: 10px 47px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+button[type=submit]:hover {
+    text-align: center;
+     background-color: #5258c982;
+ color: white;
+ border: 1px solid #53af57;
+ border-radius: 10px;
+}
+.c1{
+    text-align: center;
+    font-size: bleue;
+    font-style: italic;
+}
+.c1 input{
+    left: 5px;
+    margin: 30px;
+    height: 40px;
+    border-radius: 20px;
+}
+.c1 label{
+    text-align: center;
+    font-style: italic;
+}
+
+button[type=submit] {
+    text-align: center;
+    position: relative;
+ background-color: #40407e99
+ color: black;
+ padding: 14px 20px;
+ margin: 10px 47px;
+ border: none;
+ cursor: pointer;
+ width: %;
+}
+button[type=submit]:hover {
+    text-align: center;
+ background-color: blue;
+ color: white;
+ border: 1px solid white;
+}
+
+
+ }
